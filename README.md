@@ -1,28 +1,39 @@
-Python Mini Projects
+# Python Mini Projects
 
-This repository contains some small Python projects I've made while learning and practicing Python.
+This repository contains small Python projects I've made while learning and practicing Python.
 
-I use this repo to keep my smaller projects in one place and to track my progress over time.
+I mainly use this repo to keep my smaller projects organized and to see how my code improves over time.
 
-Projects
-File Translator
+## Projects
+
+### File Translator
 
 A simple program that reads text from a file and translates it into a language chosen by the user.
 
-While making it, I practiced things like file handling, user input, error handling, and using external Python libraries.
+While building it, I practiced:
 
-More small projects will be added here as I keep learning.
+* Reading and working with files
+* Getting input from the user
+* Handling errors
+* Using external Python libraries
 
-What I'm Learning
+More projects will be added as I build new things and learn more.
 
-Some of the things I'm practicing with these projects:
+## Things I'm Practicing
 
-Python basics
-Functions
-Working with files
-Error handling
-Using libraries
-Git and GitHub
-License
+Some of the topics I’m currently working on:
+
+* Python basics
+* Functions
+* File handling
+* Error handling
+* Working with libraries
+* Git and GitHub
+
+## About This Repo
+
+Most of the projects here are small and simple. I use them mainly to practice what I learn and try things on my own.
+
+## License
 
 MIT License
